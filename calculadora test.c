@@ -3,6 +3,6 @@
 
 int main()
 {
-float n, n1, r;
+float n, n1, n3, r;
 
 }
