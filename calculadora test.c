@@ -3,5 +3,6 @@
 
 int main()
 {
+float n, n1, r;
 
 }
