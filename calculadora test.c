@@ -3,5 +3,5 @@
 
 int main()
 {
-
+    printf("Escribe el primer numero que quieres sumas:");
 }
